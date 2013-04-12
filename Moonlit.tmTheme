@@ -1886,8 +1886,20 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#268BD2</string>
+				<string>#B58900</string>
 			</dict>
+		</dict>
+		<!-- My header changes -->
+		<dict>
+		    <key>name</key>
+		    <string>Markdown: Header Punctuation</string>
+		    <key>scope</key>
+		    <string>punctuation.definition.heading.markdown</string>
+		    <key>settings</key>
+		    <dict>
+		        <key>foreground</key>
+		        <string>#B55100</string>
+		    </dict>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1926,26 +1938,16 @@
 				<string>#DC322F</string>
 			</dict>
 		</dict>
-		<dict>
+		<!-- My list changes -->
+ 		<dict>
 			<key>name</key>
-			<string>Markdown: Bulleted List</string>
+			<string>Markdown lists</string>
 			<key>scope</key>
-			<string>markup.list.unnumbered.markdown</string>
+			<string>punctuation.definition.list_item.markdown</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#B58900</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Markdown: Numbered List</string>
-			<key>scope</key>
-			<string>markup.list.numbered.markdown</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#859900</string>
+				<string>#268BD2</string>
 			</dict>
 		</dict>
 		<dict>
