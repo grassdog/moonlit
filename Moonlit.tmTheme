@@ -20,7 +20,7 @@
 				<key>invisibles</key>
 				<string>#073642</string>
 				<key>lineHighlight</key>
-				<string>#174C59</string>
+				<string>#073642</string>
 				<key>selection</key>
 				<string>#FAE08E</string>
 			</dict>
@@ -1878,7 +1878,6 @@
 				<string>#DC322F</string>
 			</dict>
 		</dict>
-
 		<dict>
 			<key>name</key>
 			<string>Markdown: Headings</string>
